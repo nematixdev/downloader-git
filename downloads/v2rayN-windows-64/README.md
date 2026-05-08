@@ -9,7 +9,7 @@
 | **Original File** | `v2rayN-windows-64.zip` |
 | **Total Size** | **4 parts** - **143.28 MB** |
 | **Status** | **Complete (100%)** |
-| **Password Protected** | **YES** |
+| **Password Protected** | **NO** |
 
 ---
 
@@ -29,7 +29,6 @@
 1. **Download all parts** (`.zip`, `.z01`, `.z02`...)
 2. **Open** `v2rayN-windows-64.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
 3. **Extract** — all parts combine automatically
-4. Enter the password when prompted
 
 ---
 
